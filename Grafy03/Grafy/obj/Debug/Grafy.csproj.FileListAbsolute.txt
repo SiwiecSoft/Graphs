@@ -1,0 +1,37 @@
+C:\Users\radsiw\source\repos\Grafy\Grafy\bin\Debug\Grafy.exe.config
+C:\Users\radsiw\source\repos\Grafy\Grafy\bin\Debug\Grafy.exe
+C:\Users\radsiw\source\repos\Grafy\Grafy\bin\Debug\Grafy.pdb
+C:\Users\radsiw\source\repos\Grafy\Grafy\obj\Debug\Grafy.csprojAssemblyReference.cache
+C:\Users\radsiw\source\repos\Grafy\Grafy\obj\Debug\Grafy.Properties.Resources.resources
+C:\Users\radsiw\source\repos\Grafy\Grafy\obj\Debug\Grafy.csproj.GenerateResource.cache
+C:\Users\radsiw\source\repos\Grafy\Grafy\obj\Debug\Grafy.csproj.CoreCompileInputs.cache
+C:\Users\radsiw\source\repos\Grafy\Grafy\obj\Debug\Grafy.exe
+C:\Users\radsiw\source\repos\Grafy\Grafy\obj\Debug\Grafy.pdb
+C:\Users\radsiw\source\repos\Grafy\Grafy\obj\Debug\Grafy.Form1.resources
+c:\Dane\Projekty VS Community\NET\Moje\2020-02-28-Grafy\Grafy01\Grafy\bin\Debug\Grafy.exe.config
+c:\Dane\Projekty VS Community\NET\Moje\2020-02-28-Grafy\Grafy01\Grafy\bin\Debug\Grafy.exe
+c:\Dane\Projekty VS Community\NET\Moje\2020-02-28-Grafy\Grafy01\Grafy\bin\Debug\Grafy.pdb
+c:\Dane\Projekty VS Community\NET\Moje\2020-02-28-Grafy\Grafy01\Grafy\obj\Debug\Grafy.csprojAssemblyReference.cache
+c:\Dane\Projekty VS Community\NET\Moje\2020-02-28-Grafy\Grafy01\Grafy\obj\Debug\Grafy.Form1.resources
+c:\Dane\Projekty VS Community\NET\Moje\2020-02-28-Grafy\Grafy01\Grafy\obj\Debug\Grafy.Properties.Resources.resources
+c:\Dane\Projekty VS Community\NET\Moje\2020-02-28-Grafy\Grafy01\Grafy\obj\Debug\Grafy.csproj.GenerateResource.cache
+c:\Dane\Projekty VS Community\NET\Moje\2020-02-28-Grafy\Grafy01\Grafy\obj\Debug\Grafy.exe
+c:\Dane\Projekty VS Community\NET\Moje\2020-02-28-Grafy\Grafy01\Grafy\obj\Debug\Grafy.pdb
+c:\Dane\Projekty VS Community\NET\Moje\2020-02-28-Grafy\Grafy02\Grafy\bin\Debug\Grafy.exe.config
+c:\Dane\Projekty VS Community\NET\Moje\2020-02-28-Grafy\Grafy02\Grafy\bin\Debug\Grafy.exe
+c:\Dane\Projekty VS Community\NET\Moje\2020-02-28-Grafy\Grafy02\Grafy\bin\Debug\Grafy.pdb
+c:\Dane\Projekty VS Community\NET\Moje\2020-02-28-Grafy\Grafy02\Grafy\obj\Debug\Grafy.csprojAssemblyReference.cache
+c:\Dane\Projekty VS Community\NET\Moje\2020-02-28-Grafy\Grafy02\Grafy\obj\Debug\Grafy.Form1.resources
+c:\Dane\Projekty VS Community\NET\Moje\2020-02-28-Grafy\Grafy02\Grafy\obj\Debug\Grafy.Properties.Resources.resources
+c:\Dane\Projekty VS Community\NET\Moje\2020-02-28-Grafy\Grafy02\Grafy\obj\Debug\Grafy.csproj.GenerateResource.cache
+c:\Dane\Projekty VS Community\NET\Moje\2020-02-28-Grafy\Grafy02\Grafy\obj\Debug\Grafy.exe
+c:\Dane\Projekty VS Community\NET\Moje\2020-02-28-Grafy\Grafy02\Grafy\obj\Debug\Grafy.pdb
+c:\Dane\Projekty VS Community\NET\Moje\2020-02-28-Grafy\Grafy03\Grafy\bin\Debug\Grafy.exe.config
+c:\Dane\Projekty VS Community\NET\Moje\2020-02-28-Grafy\Grafy03\Grafy\bin\Debug\Grafy.exe
+c:\Dane\Projekty VS Community\NET\Moje\2020-02-28-Grafy\Grafy03\Grafy\bin\Debug\Grafy.pdb
+c:\Dane\Projekty VS Community\NET\Moje\2020-02-28-Grafy\Grafy03\Grafy\obj\Debug\Grafy.csprojAssemblyReference.cache
+c:\Dane\Projekty VS Community\NET\Moje\2020-02-28-Grafy\Grafy03\Grafy\obj\Debug\Grafy.Form1.resources
+c:\Dane\Projekty VS Community\NET\Moje\2020-02-28-Grafy\Grafy03\Grafy\obj\Debug\Grafy.Properties.Resources.resources
+c:\Dane\Projekty VS Community\NET\Moje\2020-02-28-Grafy\Grafy03\Grafy\obj\Debug\Grafy.csproj.GenerateResource.cache
+c:\Dane\Projekty VS Community\NET\Moje\2020-02-28-Grafy\Grafy03\Grafy\obj\Debug\Grafy.exe
+c:\Dane\Projekty VS Community\NET\Moje\2020-02-28-Grafy\Grafy03\Grafy\obj\Debug\Grafy.pdb
